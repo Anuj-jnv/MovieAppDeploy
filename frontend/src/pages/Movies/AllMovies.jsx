@@ -8,7 +8,7 @@ import {
 import MovieCard from "./MovieCard";
 import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import banner from "../../assests/banner.jpg";
+import banner from "../../assests/banner1.jpg";
 import {
   setMoviesFilter,
   setFilteredMovies,
