@@ -45,10 +45,10 @@ A **full-stack MERN** application for exploring, filtering, and managing movies 
 ![Homepage Screenshot](frontend/src/project_images/Homepage.png)  
 
 ### Admin Dashboard  
-![Admin Dashboard Screenshot](frontend/src/project_images/Admin_dashboard.png)  
+![Admin Dashboard Screenshot](frontend/src/project_images/Admin_dahboard.png)  
 
 ### Movie Details Page  
-![Movie Details Screenshot](frontend/src/project_images/advanced_filtering.png)  
+![Movie Details Screenshot](frontend/src/project_images/Filtering_page.png)  
 
 ---
 
