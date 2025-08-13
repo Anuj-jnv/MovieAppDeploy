@@ -42,7 +42,7 @@ A **full-stack MERN** application for exploring, filtering, and managing movies 
 ## 📸 Screenshots  
 
 ### Homepage  
-![Homepage Screenshot](src/project_images/Homepage.png)  
+![Homepage Screenshot](frontend/src/project_images/Homepage.png)  
 
 ### Admin Dashboard  
 ![Admin Dashboard Screenshot](screenshots/screenshot2.png)  
