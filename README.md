@@ -1,7 +1,9 @@
-Movies Discovery Portal 🎬
+MOVIES DISCOVERY PORTAL 🎬
+
 A full-stack MERN application for exploring and managing movies with advanced features.
 
-Key Features
+KEY FEATURES:
+
 Advanced Filtering Options – Filter by genre, release year, and categories (Top Rated, New Releases, Random Picks).
 
 Role-Based Access Control –
