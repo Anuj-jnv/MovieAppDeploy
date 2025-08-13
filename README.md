@@ -54,7 +54,7 @@ A **full-stack MERN** application for exploring, filtering, and managing movies 
 
 ## 🔗 Live Demo & Repository  
 
-- 🌐 **Live Demo:** [Click Here](https://your-live-link.com)  
-- 💻 **GitHub Repo:** [Click Here](https://github.com/your-username/movies-discovery-portal)  
+- 🌐 **Live Demo:** [Click Here](https://movieappdeploy-xzb5.onrender.com/)  
+- 💻 **GitHub Repo:** [Click Here](https://github.com/Anuj-jnv/MovieAppDeploy)  
 
 ---
