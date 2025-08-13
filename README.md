@@ -1,23 +1,60 @@
-MOVIES DISCOVERY PORTAL 🎬
+# 🎬 Movies Discovery Portal  
 
-A full-stack MERN application for exploring and managing movies with advanced features.
+A **full-stack MERN** application for exploring, filtering, and managing movies with an intuitive user interface and powerful admin controls.  
 
-KEY FEATURES:
+---
 
-Advanced Filtering Options – Filter by genre, release year, and categories (Top Rated, New Releases, Random Picks).
+## ✨ Features  
 
-Role-Based Access Control –
+- **🎯 Advanced Filtering Options**  
+  Filter movies by **genre**, **release year**, and categories (*Top Rated*, *New Releases*, *Random Picks*).  
 
-Admin: Add, update, and delete movies and genres, view and manage comments.
+- **🔐 Role-Based Access Control**  
+  - **Admin**: Add, update, and delete movies/genres, view and manage user comments.  
+  - **User**: Browse movies, search, and leave reviews.  
 
-User: Browse movies, search, and post reviews.
+- **📊 Admin Dashboard**  
+  A clean dashboard to manage movies, genres, and user interactions.  
 
-Admin Dashboard – Simple and intuitive dashboard for managing content.
+- **🛡️ Secure Authentication**  
+  Implemented JWT-based login & registration with bcrypt password hashing.  
 
-Secure Authentication – User login/registration with protected routes.
+- **🖼️ Image Hosting**  
+  Cloudinary integration for secure and fast movie poster storage.  
 
-Image Hosting with Cloudinary – Secure storage and fast loading of movie posters.
+- **⚡ State Management**  
+  Redux Toolkit + RTK Query for efficient API calls and state handling.  
 
-State Management – Integrated Redux Toolkit with RTK Query for efficient API calls and state handling.
+- **📱 Responsive Design**  
+  Works smoothly across desktops, tablets, and mobiles.  
 
-Responsive UI – Works smoothly across desktop, tablet, and mobile devices.
+---
+
+## 🛠 Tech Stack  
+
+| Frontend       | Backend         | Database | Hosting   | Auth  |
+|----------------|----------------|----------|-----------|-------|
+| React.js       | Node.js        | MongoDB  | Cloudinary| JWT   |
+| Redux Toolkit  | Express.js     |          |           | bcrypt|
+
+---
+
+## 📸 Screenshots  
+
+### Homepage  
+![Homepage Screenshot](screenshots/screenshot1.png)  
+
+### Admin Dashboard  
+![Admin Dashboard Screenshot](screenshots/screenshot2.png)  
+
+### Movie Details Page  
+![Movie Details Screenshot](screenshots/screenshot3.png)  
+
+---
+
+## 🔗 Live Demo & Repository  
+
+- 🌐 **Live Demo:** [Click Here](https://your-live-link.com)  
+- 💻 **GitHub Repo:** [Click Here](https://github.com/your-username/movies-discovery-portal)  
+
+---
